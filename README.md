@@ -1,4 +1,4 @@
-# Backend Projects
+# Backend 7-Day Revision Projects
 
 A 7-day backend development revision program focused on building practical Node.js, Express.js, MongoDB, authentication, authorization, file handling, real-world workflows, and complete backend integration.
 
@@ -243,6 +243,31 @@ Controller Response
   ↓
 Client
 ```
+
+## 🎓 Interview Preparation
+
+These projects are also designed as backend interview preparation.
+
+I should be able to explain:
+
+1. Why Express.js?
+2. What is REST?
+3. Difference between PUT and PATCH?
+4. What are HTTP status codes?
+5. Why hash passwords?
+6. How does bcrypt work?
+7. What is JWT?
+8. Authentication vs authorization?
+9. Why middleware?
+10. What is MongoDB?
+11. What is Mongoose?
+12. How does filtering work?
+13. How does Multer handle files?
+14. How are static files served?
+15. How should a backend be structured?
+16. How does a request travel through the application?
+17. How should errors be handled?
+18. How do roles protect routes?
 
 ## 🚀 Final Outcome
 
